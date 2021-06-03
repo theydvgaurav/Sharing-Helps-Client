@@ -1,0 +1,12 @@
+.h{
+  text-align: center !important;
+}
+
+.b{
+  align-items: center !important;
+}
+
+.base-container{
+  background-color: #c38d9e;
+  border-radius: 0.8rem;
+}
