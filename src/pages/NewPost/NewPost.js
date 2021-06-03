@@ -28,7 +28,7 @@ const NewPost = () => {
             alert("Title or Body in empty.Please Write Something..")
         }
         else{
-            axios.post('https://sharinghelps.herokuapp.com//feed', post)
+            axios.post('https://sharinghelps.herokuapp.com/feed', post)
         }
 
         
