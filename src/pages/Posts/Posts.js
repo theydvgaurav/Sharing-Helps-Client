@@ -11,7 +11,7 @@ const Posts = () => {
         // .then(response => await response.data.json)
         .then(response => setData(response.data))
     }
-c
+
     useEffect(()=>{
         getPosts();
     }, [])
