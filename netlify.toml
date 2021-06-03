@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://sharinghelps.netlify.app/"
+  status = 200
